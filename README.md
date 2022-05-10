@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @digvijay87
 - 👀 I’m interested in Kernel Programming / FileSystem Feature development / Linux Device Driver/ DataStructure and Algorithm
-- 🌱 I’m currently improving my C++ and Algorithm skills
+- 🌱 I’m currently improving Algorithm skills
 - 💞️ I’m looking to collaborate on Kernel Maintenence 
 - 📫 How to reach me : contact me on digvijay.chauhan87@gmail.com
 
